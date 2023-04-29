@@ -1,0 +1,45 @@
+* {
+    font-family: "Assaf Font";
+    font-weight: 100;
+}
+
+:root {
+    direction: rtl;
+}
+
+.title {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.Description {
+    text-align: center;
+}
+
+.Form {
+    display: flex;
+    justify-content: center;
+}
+
+.Type {
+    width: 240px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    outline: none;
+    border-style: solid;
+    margin-left: 10px;
+}
+
+.Result {
+    text-align: center;
+}
+
+.ArabicWord {
+    text-align: center;
+}
+
+.ArabicValue {
+    text-align: center;
+}
